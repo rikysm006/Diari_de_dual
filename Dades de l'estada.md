@@ -8,10 +8,10 @@
 - **Beneficis rebuts:** [He rebut una beca de menjador, i el bus per anar al treball hem surt gratis.]
 
 ## Hores de prova (només si aplica):
-- **Total d’hores en el període de les 80 - 100 hores de prova:** []
+- **Total d’hores en el període de les 80 - 100 hores de prova:** [He realitzat un total de 92 hores.]
 
 ## Hores com a becari o contractat:
-- **Total d’hores realitzades:** [Indica el total d’hores realitzades com a becari o contractat]
+- **Total d’hores realitzades:** []
 
 ## Temporització de l’estada:
 
