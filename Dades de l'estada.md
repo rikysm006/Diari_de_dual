@@ -1,14 +1,14 @@
 # Dades de l’estada:
 
 ## Tipus de vinculació laboral:
-- **Becari o Contractat:** [Indica si ets becari o contractat]
+- **Becari o Contractat:** [Soc becari]
 - **Detalls sobre la beca o contracte:** [Explica breument en què consisteix la teva beca o contracte]
 
 ## Beneficis socials:
-- **Beneficis rebuts:** [Enumera qualsevol benefici social que hagis rebut, com menjador a l’empresa, cursos gratuïts, gimnàs, etc.]
+- **Beneficis rebuts:** [He rebut una beca de menjador, i el bus per anar al treball hem surt gratis.]
 
 ## Hores de prova (només si aplica):
-- **Total d’hores en el període de les 80 - 100 hores de prova:** [Indica el total d’hores realitzades durant aquest període, si és aplicable]
+- **Total d’hores en el període de les 80 - 100 hores de prova:** []
 
 ## Hores com a becari o contractat:
 - **Total d’hores realitzades:** [Indica el total d’hores realitzades com a becari o contractat]
