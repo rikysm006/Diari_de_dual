@@ -16,12 +16,12 @@
 ## Temporització de l’estada:
 
 ### Període de prova (si aplica):
-- **Data d’inici del període de prova:** [Data d’inici]
-- **Data de finalització del període de prova:** [Data de finalització]
+- **Data d’inici del període de prova:** [01/06/2023]
+- **Data de finalització del període de prova:** [05/07/2023]
 
 ### Pràctiques com a becari o contractat:
-- **Data d’inici de les pràctiques:** [Data d’inici]
-- **Data de finalització de les pràctiques:** [Data de finalització]
+- **Data d’inici de les pràctiques:** [06/07/2023]
+- **Data de finalització de les pràctiques:** []
 
 ### Dies no laborables:
-- **Dies de vacances o malaltia:** [Indica quins dies no vas fer pràctiques per vacances o malaltia]
+- **Dies de vacances o malaltia:** []
