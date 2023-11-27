@@ -16,7 +16,7 @@ L'Institut Nicolau Copèrnic és un centre educatiu situat a carrer de Torrent d
 
 ## Motivació
 ### Pel cicle que estic cursant
-Em vaig apuntar aquest cicle perquè m'agraden els videojocs vaig començar a indagar i vaig trobar el món de la programació. Vaig seguir alguns tutorials al YouTube i vaig començar a programa seguint aquest tutorial, fent programés bàsics a Python. 
+Em vaig apuntar aquest cicle perquè m'agradava el tema de la programació, vaig començar a indagar i vaig decidir que volia ser programador. Vaig seguir alguns tutorials al YouTube i vaig començar a programa seguint aquest tutorial, fent programés bàsics a Python. 
 
 ### Pel programa Dual d’estada en l’empresa
 Vaig decidir fer l'estada dual per guanyar experiència laboral i aprendre com funciona una empresa real.
